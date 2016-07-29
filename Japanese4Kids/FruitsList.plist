@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>りんご</key>
+	<string>apple.png</string>
+	<key>アボカド</key>
+	<string>avocado.jpg</string>
+	<key>バナナ</key>
+	<string>banana</string>
+	<key>チェリー</key>
+	<string>cherry</string>
+	<key>ココナッツ</key>
+	<string>coconut</string>
+	<key>すいか</key>
+	<string>watermelon</string>
+	<key>メロン</key>
+	<string>melon.jpg</string>
+	<key>レモン</key>
+	<string>lemon.jpg</string>
+	<key>ライチ</key>
+	<string>lychee.jpg</string>
+	<key>マンゴー</key>
+	<string>mango.jpg</string>
+	<key>パパイヤ</key>
+	<string>papaya.jpg</string>
+	<key>グレープ</key>
+	<string>grape</string>
+	<key>もも</key>
+	<string>peach.jpg</string>
+	<key>うめ</key>
+	<string>plum</string>
+	<key>パイナップル</key>
+	<string>pineapple.jpg</string>
+	<key>キウイ</key>
+	<string>kiwi.jpg</string>
+	<key>くろいちご</key>
+	<string>blackberry</string>
+	<key>イチゴ</key>
+	<string>strawberry.jpg</string>
+</dict>
+</plist>

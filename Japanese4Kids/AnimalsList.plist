@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>くじゃく</key>
+	<string>peafowl.jpg</string>
+	<key>はくちょう</key>
+	<string>swan</string>
+	<key>きつね</key>
+	<string>fox</string>
+	<key>たか</key>
+	<string>hawk.jpg</string>
+	<key>ねずみ</key>
+	<string>mouse</string>
+	<key>くま</key>
+	<string>bear</string>
+	<key>やぎゅう</key>
+	<string>buffalo.jpg</string>
+	<key>さかな</key>
+	<string>fish</string>
+	<key>かめ</key>
+	<string>turtle</string>
+	<key>あひる</key>
+	<string>duck</string>
+	<key>とり</key>
+	<string>bird</string>
+	<key>しし</key>
+	<string>lion.jpg</string>
+	<key>とら</key>
+	<string>tiger.jpg</string>
+	<key>ねこ</key>
+	<string>cat.jpg</string>
+	<key>いぬ</key>
+	<string>dog</string>
+	<key>バット</key>
+	<string>bat.jpg</string>
+	<key>しか</key>
+	<string>deer.jpg</string>
+	<key>あり</key>
+	<string>ant</string>
+	<key>はち</key>
+	<string>bee</string>
+	<key>ちょう</key>
+	<string>butterfly</string>
+	<key>か</key>
+	<string>mosquito.jpg</string>
+	<key>がま</key>
+	<string>frog</string>
+	<key>スネーク
+スネーク
+</key>
+	<string>snake</string>
+	<key>かに</key>
+	<string>crab</string>
+	<key>カタツムリ</key>
+	<string>snail</string>
+</dict>
+</plist>
